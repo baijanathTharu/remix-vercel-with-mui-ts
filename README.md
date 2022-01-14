@@ -1,5 +1,5 @@
 ## MUI Typescript Template for Remix Vercel
-Material UI template for remix that can be deployed to vercel. [See here](https://mui-remix-baijan.vercel.com)
+Material UI template for remix that can be deployed to vercel. [See here](https://remix-vercel-with-mui-ts.vercel.app/)
 Clone this repo and run `npm run dev:web' to start the project.
 
 ## Learn About Emotion (Default style engine for MUI v5)
