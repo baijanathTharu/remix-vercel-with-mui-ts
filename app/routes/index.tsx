@@ -43,20 +43,24 @@ export default function Home() {
                 textDecoration: 'none',
               }}
               target='__blank'
-              href='https://networksynapse.net/development/mui-v5-material-with-emotion'
+              href='https://mui.com/guides/interoperability/'
             >
-              <Button variant='contained'>Learn about emotion</Button>
+              <Button variant='contained' color='secondary'>
+                Learn about styling in MUI System
+              </Button>
             </a>
           </Grid>
-          <Grid item>
+          <Grid item xs={12}>
             <a
               style={{
                 textDecoration: 'none',
               }}
               target='__blank'
-              href='https://mui.com/getting-started/templates/'
+              href='https://github.com/baijanathTharu/remix-vercel-with-mui-ts'
             >
-              <Button variant='contained'>Start with Material UI</Button>
+              <Button variant='outlined' color='secondary'>
+                Look at the code
+              </Button>
             </a>
           </Grid>
         </Grid>
